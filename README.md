@@ -6,6 +6,6 @@
 
   <img src="https://github.com/NoushinTasnim/Weather-App-UI/blob/main/iPhone%2013%20Pro%20Max%20-%203.png" width="200"/>
 
-  <img src="https://github.com/NoushinTasnim/Weather-App-UI/blob/main/iPhone%2013%20Pro%20Max%20-%204.png" width="200"/>
+  <img src="https://github.com/NoushinTasnim/Weather-App-UI/blob/main/iPhone%2013%20Pro%20Max%20-%204.png" width="120"/>
 
 </p>
